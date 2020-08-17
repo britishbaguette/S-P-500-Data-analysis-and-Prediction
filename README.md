@@ -5,3 +5,6 @@ In this analysis, different datasets containing various combinations of features
 
 The target of prediction is the t+1 close price of CBOE, which is to be predicted using features such as different combination of stocks and their prices,
 differnt number of lags, and finally the lagged prices of CBOE itself.
+
+
+Source of the dataset: https://www.kaggle.com/camnugent/sandp500
